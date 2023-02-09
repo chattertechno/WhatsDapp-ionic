@@ -1,0 +1,7 @@
+{
+  "name": "Pdapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
